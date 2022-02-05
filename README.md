@@ -1,4 +1,4 @@
-﻿# WSB Projek zaliczeniowy - MusicTimeMachine
+﻿# WSB Projekt zaliczeniowy - MusicTimeMachine
 
 Projekt stworzony na potrzeby zaliczenia przedmiotu: 
 Usługi i platformy deweloperskie dla aplikacji w Chmurze
